@@ -1,0 +1,3 @@
+1.Xây dựng model dự đoán điểm thi
+2.Lưu model.
+3.Trả lại bằng file csv
